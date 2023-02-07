@@ -3,4 +3,4 @@
 Welcome to my GitHub page!
 
 - 🔭 I’m currently working on PartyPal 🎉 
-- 🌱 I’m currently learning MongoDB 🍃 and TypesSript 💻 
+- 🌱 I’m currently learning MongoDB 🍃 and TypeScript 💻 
